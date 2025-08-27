@@ -36,7 +36,7 @@ int main() {
     if (discount > 0) {
         printf("Discount received: %.0f%%\n", discount);
     } else {
-        printf("No discount applied\n");
+        printf("No discount applied\n");//
     }
 
     //printf("Thank you for shopping with us!\n

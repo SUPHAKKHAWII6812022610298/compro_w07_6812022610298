@@ -20,7 +20,7 @@ int main() {
         printf("Diamond Member: All benefits + VIP events\n");
     } 
     else {
-        printf("Invalid membership level\n");
+        printf("Invalid membership level\n");//
     }
 
     return 0;
