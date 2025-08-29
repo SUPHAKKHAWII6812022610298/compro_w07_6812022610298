@@ -38,6 +38,5 @@ int main() {
     } else {
         printf("No discount applied\n");//
     }
-
-    //printf("Thank you for shopping with us!\n
+  printf("Thank you for shopping with us!");
     }

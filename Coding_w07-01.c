@@ -1,7 +1,8 @@
+
 #include <stdio.h>
 
 int main() {
-    float score = 60;                         // กำหนดคะแนนสอบ midterm
+    float score = 45;                         // กำหนดคะแนนสอบ midterm
     float final_score;
 
     if (score >= 50) {                     // คะแนน มากกว่าหรือเท่ากับ 50
